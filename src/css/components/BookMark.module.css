@@ -1,0 +1,15 @@
+.bookmark {
+    background-image: url(../../assets/img/bookmark.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 24px;
+    height: 24px;
+}
+
+.bookmark_click {
+    background-image: url(../../assets/img/bookmark_click.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 24px;
+    height: 24px;
+}

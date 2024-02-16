@@ -1,0 +1,99 @@
+.profile_first {
+    font-family: 'Inter', sans-serif;
+    color: #4B5563;
+    font-size: 16px;
+    line-height: 19.36px;
+    font-weight: 300;
+}
+
+.profile_first:hover {
+    color: #4FA2DC;
+    font-weight: 500;
+    transition: all 0.3s ease-out;
+}
+
+.profile_two {
+    font-family: 'Inter', sans-serif;
+    color: #4B5563;
+    font-size: 16px;
+    line-height: 19.36px;
+    font-weight: 300;
+}
+
+.profile_two:hover {
+    color: #4FA2DC;
+    font-weight: 600;
+    transition: all 0.3s ease-out;
+}
+
+.profile_two_click {
+    font-weight: 400;
+}
+
+.download {
+    font-family: 'Inter', sans-serif;
+    color: #131313;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16.94px;
+}
+
+.download_click {
+    font-family: 'Inter', sans-serif;
+    color: #4FA2DC;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16.94px;
+}
+
+.replies_default {
+    font-family: 'Inter', sans-serif;
+    color: #A5B2C9;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 14.52px;
+}
+
+.replies_default:hover {
+    color: #4FA2DC;
+    transition: all 0.3s ease-out;
+    text-decoration: underline;
+}
+
+.replies_regular {
+    font-family: 'Inter', sans-serif;
+    color: #A5B2C9;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.94px;
+}
+
+.replies_regular:hover {
+    color: #4FA2DC;
+    transition: color 0.3s ease-out;
+}
+
+.replies_light {
+    font-family: 'Inter', sans-serif;
+    color: #A5B2C9;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19.36px;
+}
+
+.replies_light:hover {
+    color: #4FA2DC;
+    transition: color 0.3s ease-out;
+}
+
+.hashtag {
+    font-family: 'Inter', sans-serif;
+    color: #4B5563;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19.36px;
+}
+
+.hashtag_click {
+    color: #4FA2DC;
+}
