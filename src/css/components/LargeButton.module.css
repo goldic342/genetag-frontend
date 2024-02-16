@@ -1,0 +1,19 @@
+.large {
+    padding: 22px 50px;
+    width: 410px;
+    height: 47px;
+    font-size: 16px;
+    line-height: 19.84px;
+    white-space: nowrap;
+}
+
+.blue {
+    background-color: rgba(79, 162, 220, 1);
+    border: solid rgba(136, 191, 229, 1) 3px;
+}
+
+.white {
+    background-color: #fff;
+    color: rgba(79, 162, 220, 1);
+    border: solid rgba(136, 191, 229, 1) 3px;
+}
