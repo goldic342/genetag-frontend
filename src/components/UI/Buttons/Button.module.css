@@ -1,0 +1,11 @@
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    text-transform: uppercase;
+    border-radius: 1200px;
+    font-weight: 600;
+    background-color: var(--color-primary);
+
+}

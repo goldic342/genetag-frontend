@@ -1,0 +1,17 @@
+.small {
+    padding: 9px 32px;
+    min-width: 127px;
+    min-height: 30px;
+    font-size: 10px;
+    line-height: 12.4px;
+    white-space: nowrap;
+    border: solid var(--color-border) 2px;
+
+}
+
+.small:hover {
+    background-color: var(--color-white);
+    color: var(--color-primary);
+    border: solid var(--color-primary) 2px;
+    transition: all 0.3s;
+}
