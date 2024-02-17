@@ -1,20 +1,21 @@
 import React from 'react';
-import './css/App.css';
-import LargeButton from './components/UI/LargeButton';
-import MediumButton from './components/UI/MediumButton';
-import SmallButton from './components/UI/SmallButton';
-import TextButton from './components/UI/TextButton';
-import Slider from './components/UI/Slider';
-import BookMark from './components/UI/BookMark';
+import './App.css';
+import LargeButton from './components/UI/Buttons/LargeButton/LargeButton';
+import MediumButton from './components/UI/Buttons/MediumButton/MediumButton';
+import SmallButton from './components/UI/Buttons/SmallButton/SmallButton';
+import LargeSlider from './components/UI/Sliders/LargeSlider';
+import BookMark from './components/UI/BookMark/BookMark';
+import RepliesDefault from './components/UI/TextButton/Replies/RepliesDefault';
 
 const App: React.FC = () => {
+
   return (
     <div className="App">
-      <LargeButton />
-      <MediumButton />
-      <SmallButton />
-      <TextButton />
-      <Slider />
+      <LargeButton children={"get matches"}/>
+      <MediumButton children={"let’s check"}/>
+      <SmallButton children={"MESSAGE"}/>
+      <RepliesDefault children={"My profile"}/>
+      <LargeSlider disabled={true}/>
       <BookMark />
     </div>
   );

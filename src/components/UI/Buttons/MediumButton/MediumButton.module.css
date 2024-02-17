@@ -1,0 +1,17 @@
+.medium {
+    padding: 22px 50px;
+    width: 208px;
+    height: 44px;
+    font-size: 16px;
+    line-height: 19.84px;
+    white-space: nowrap;
+    border: solid var(--color-border) 3px;
+}
+
+
+.medium:hover {
+    background-color: var(--color-white);
+    color: var(--color-primary);
+    border: solid var(--color-border) 3px;
+    transition: all 0.3s;
+}

@@ -1,5 +1,5 @@
 import React from "react";
-import style from '../../css/components/BookMark.module.css';
+import style from './BookMark.module.css';
 
 const BookMark: React.FC = () => {
   return (

@@ -6,4 +6,6 @@
     text-transform: uppercase;
     border-radius: 1200px;
     font-weight: 600;
+    background-color: var(--color-primary);
+
 }

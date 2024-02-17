@@ -4,6 +4,7 @@
     font-size: 16px;
     line-height: 19.36px;
     font-weight: 300;
+    text-transform: capitalize;
 }
 
 .profile_first:hover {
@@ -18,6 +19,7 @@
     font-size: 16px;
     line-height: 19.36px;
     font-weight: 300;
+    text-transform: capitalize;
 }
 
 .profile_two:hover {
@@ -36,6 +38,7 @@
     font-size: 14px;
     font-weight: 300;
     line-height: 16.94px;
+    text-transform: capitalize;
 }
 
 .download_click {
@@ -52,6 +55,7 @@
     font-weight: 300;
     font-size: 12px;
     line-height: 14.52px;
+    text-transform: capitalize;
 }
 
 .replies_default:hover {
@@ -66,6 +70,7 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 16.94px;
+    text-transform: capitalize;
 }
 
 .replies_regular:hover {
@@ -79,6 +84,7 @@
     font-weight: 300;
     font-size: 16px;
     line-height: 19.36px;
+    text-transform: capitalize;
 }
 
 .replies_light:hover {
@@ -92,6 +98,7 @@
     font-weight: 300;
     font-size: 16px;
     line-height: 19.36px;
+    text-transform: capitalize;
 }
 
 .hashtag_click {
